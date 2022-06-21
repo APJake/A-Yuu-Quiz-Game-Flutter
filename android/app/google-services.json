@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "555542540825",
+    "project_id": "ayuu-quiz",
+    "storage_bucket": "ayuu-quiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555542540825:android:5b0c7f3a357b742847b088",
+        "android_client_info": {
+          "package_name": "com.apjake.ayuu_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555542540825-c2733jtk8vbuas5t46s7lp1msk5kukfp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apjake.ayuu_quiz",
+            "certificate_hash": "0310c16596affc6c1e62eac22e0febc956e2b9e0"
+          }
+        },
+        {
+          "client_id": "555542540825-ei87aiam89u01t3s170bp3gcd73ar6rq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzBFuD84dH1NINrc3aLmUW_Mtqw_t1ubA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555542540825-ei87aiam89u01t3s170bp3gcd73ar6rq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "555542540825-r8lcj2adfgvagai9npg7c4346u6b0jtd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.apjake.ayuuQuiz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
